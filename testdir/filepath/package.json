@@ -1,0 +1,29 @@
+{
+  "name": "tools",
+  "version": "0.0.0",
+  "description": "this is define pack ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "bl": "^1.2.1",
+    "chalk": "^2.3.0",
+    "crc": "^3.5.0",
+    "fs-extra": "^4.0.2",
+    "handlebars": "^4.0.11",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0",
+    "node-xlsx": "^0.11.2",
+    "opn": "^5.1.0",
+    "shelljs": "^0.7.8",
+    "tar": "^4.1.1",
+    "thunder-vip": "^1.0.10",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.19",
+    "yargs": "^10.0.3"
+  }
+}
